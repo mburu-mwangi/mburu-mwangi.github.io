@@ -2,7 +2,13 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+layout: page
+title: about
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Hello, I am Alfonce Mwangi
+I am a **Cybersecurity and Cloud Security** enthusiast/student with a focus on building resilient systems and ethical hacking.
+### Technical Focus
+**Offensive Security:** HTB writeups, vulnerablility Research.
+**Cloud & Network Security** Securing Nginx, and VPC
+
