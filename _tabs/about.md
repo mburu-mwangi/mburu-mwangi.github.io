@@ -7,7 +7,7 @@ title: about
 ---
 
 ## Hello, I am Alfonce Mwangi
-I am a **Cybersecurity and Cloud Security** enthusiast/student with a focus on building resilient systems and ethical hacking.
+I am a **Digital Forensics Analyst** enthusiast/student with a focus on Incidence Reporting, ML
 ### Technical Focus
 **Offensive Security:** HTB writeups, vulnerablility Research.
 **Cloud & Network Security** Securing Nginx, and VPC
