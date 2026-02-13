@@ -2,7 +2,7 @@
 title: Setting Up My Cloud Security Lab on GCp,Azure, AWS.
 date: 2026-02-13 10:07:00 +0300
 categories: [Cloud, Lab-setup, Azure, AWS, GCP]
-tags:[ubuntu, nginx, scp, azure]
+tags: [ubuntu, nginx, scp, azure]
 
 ---
 
