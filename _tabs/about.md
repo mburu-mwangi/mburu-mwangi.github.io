@@ -11,4 +11,6 @@ I am a **Cybersecurity and Cloud Security** enthusiast/student with a focus on b
 ### Technical Focus
 **Offensive Security:** HTB writeups, vulnerablility Research.
 **Cloud & Network Security** Securing Nginx, and VPC
-
+**AI & Data** AI & Data
+### Current Projects
+**My projects**....
