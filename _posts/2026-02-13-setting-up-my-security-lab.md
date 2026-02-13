@@ -4,7 +4,7 @@ date: 2026-02-13 10:07:00 +0300
 categories: [Cloud, Lab-setup, Azure, AWS, GCP]
 tags: [ubuntu, nginx, scp, azure]
 image: 
-  path:/assets/awsazuregooglecloud.png
+  path: /assets/awsazuregooglecloud.png
   alt: Feature image for azure
 
 ---
