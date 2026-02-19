@@ -99,4 +99,6 @@ I am particularly interested in applying data science to:
 - Exposure to CI/CD principles
 - Containerization (Docker – learning phase)
 
+For collaborations, research, analytics consulting, or security-focused data projects, feel free to connect.
+
   
