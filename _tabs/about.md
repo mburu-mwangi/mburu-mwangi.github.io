@@ -52,7 +52,7 @@ I am particularly interested in applying data science to:
 - Risk scoring systems
 
 
-<-- ,Data Engineering Foundations
+<--! ,Data Engineering Foundations
 -ETL pipeline design
 -Apache Airflow
 -Data warehousing
