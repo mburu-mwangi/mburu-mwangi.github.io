@@ -12,3 +12,12 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
+
+gem "csv", "~> 3.3"
+gem "base64", "~> 0.3.0"
+gem "bigdecimal", "~> 3.3"
+gem "logger", "~> 1.7"
+
+gem "erb", "~> 6.0"
+
+gem "mutex_m", "~> 0.3.0"
