@@ -7,12 +7,12 @@ title: about
 ---
 
 ## Hello, I am Alfonce Mwangi
-I am a qualified `Data Scientist` & a `Digital Forensics Analyst`, `Cyber Security` enthusiast/student. I focus on:
-- Digital Health Informatics
-- Business Intelligence
-- Data Science
+I am a qualified `Data Scientist` & a `Digital Forensics Analyst`, `Cyber Security` enthusiast/student based in Kenya. I focus on:
+
+- Data Science and Business Intelligence
 - Information Security
 - Digital Forensics
+- Website Development
 
 I work at the intersection of analytics, ML and cybersecurity.
   
@@ -29,6 +29,7 @@ I work at the intersection of analytics, ML and cybersecurity.
 
 **Technical Stack**
 - Python(Pandas,scikit-learn)
+- R
 - SQL (advanced joins, window functions)
 - Power BI / Looker Studio / Taleau
 - BigQuery
@@ -59,33 +60,11 @@ I am particularly interested in applying data science to:
 -Schema design
 -NoSQL (MongoDB) -->
 
-## Selected Projects
-
-### Hypothyroid Prediction Model
-
-**Objective:** Develop a predictive model for clinical diagnosis support  
-**Dataset Size:** 3163 records  
-**Tech Stack:** Python, scikit-learn, Pandas , Matplotlib / Seaborn 
-**Model Performance:** Accuracy 97.2%
-**Impact:** Demonstrated viability of ML-assisted screening  
-**GitHub:** [https://github.com/mburu-mwangi/thyroid-tests]
-
----
-
-### Autolib Fleet Movement Analysis
-
-**Objective:** Perform exploratory data analysis on fleet operations
-**Dataset Size:** 16085 records 
-**Tech Stack:** Python, Statistical Testing, Pandas , Matplotlib / Seaborn 
-**Focus Areas:** Trend identification, hypothesis testing, usage pattern analysis  
-**Outcome:** Data-driven operational insights for mobility optimization 
-**Github** [https://github.com/mburu-mwangi/Core-Wk-4-ip]
-
 
 ## Engineering & Workflow Exposure
 
 - Git version control workflows  
-- Streamlit-based ML deployment  
+- ML deployment  
 - Data pipeline structuring  
 - Analytical documentation & reporting standards  
 - Exposure to CI/CD principles
