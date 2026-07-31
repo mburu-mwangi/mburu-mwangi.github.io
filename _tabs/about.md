@@ -60,15 +60,6 @@ I am particularly interested in applying data science to:
 -NoSQL (MongoDB) -->
 
 ## Selected Projects
-### Movie Recommendation System
-
-**Objective:** Develop a recommendation engine using association rule learning  
-**Tech Stack:** Python, Streamlit  
-**Focus Areas:** Data preprocessing, rule mining, dashboard visualization  
-**Outcome:** Interactive recommender interface with administrative dashboard  
-
----
-
 
 ### Hypothyroid Prediction Model
 
@@ -89,6 +80,7 @@ I am particularly interested in applying data science to:
 **Focus Areas:** Trend identification, hypothesis testing, usage pattern analysis  
 **Outcome:** Data-driven operational insights for mobility optimization 
 **Github** [https://github.com/mburu-mwangi/Core-Wk-4-ip]
+
 
 ## Engineering & Workflow Exposure
 
