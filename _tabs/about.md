@@ -7,7 +7,7 @@ title: about
 ---
 
 ## Hello, I am Alfonce Mwangi
-I am a qualified **Data Scientist** & a **Digital Forensics Analyst**, **Cyber Security** enthusiast/student. I focus on:
+I am a qualified `Data Scientist` & a `Digital Forensics Analyst`, `Cyber Security` enthusiast/student. I focus on:
 - Digital Health Informatics
 - Business Intelligence
 - Data Science
