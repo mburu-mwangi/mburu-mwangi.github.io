@@ -44,7 +44,7 @@ Rather than launching into standard defaults, the target WordPress engine was de
 
 ## Technical Roadblocks & Engineering Workarounds
 
-Migrating a modern **2 GB site backup** over standard web layers presents clear architectural bottlenecks. Below are the roadblocks encountered and the system engineering tactics used to clear them.
+Migrating a modern **595MB site backup** over standard web layers presents clear architectural bottlenecks. Below are the roadblocks encountered and the system engineering tactics used to clear them.
 
 ### Roadblock 1: The Browser Connection & PHP Timeouts
 Attempting a standard web dashboard upload resulted in immediate socket drops and validation failures. 
