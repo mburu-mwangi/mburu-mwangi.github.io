@@ -4,7 +4,7 @@ date: 2026-09-25 17:30:00 +0300
 categories: [SysAdmin, DevOps]
 tags: [wordpress, aws, cpanel, wix, ssl, javascript, security]
 image:
-  path: /assets/migration-banner.png
+  path: /assets/cross_cloud_wordpress_migration.png
   alt: AWS to Host Pinnacle Migration Architecture
 ---
 
