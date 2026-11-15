@@ -19,7 +19,7 @@ The goal was to move beyond the organization's previous Wix website and build a 
 
 We used **Figma** to plan and design the website before implementation. This gave us a shared reference for the page layouts, navigation, visual direction, and responsive experience.
 
-<!-- Image placeholder: Add a screenshot of the Figma design file here. -->
+<!-- Image placeholder: screenshot of the Figma design file here. -->
 ![VOH Kenya website designs in Figma](/assets/img/projects/voh-kenya/voh-figma-design.png)
 *Interface planning and UI/UX design in Figma.*
 
@@ -38,11 +38,11 @@ The public website brings together key information about VOH Kenya and its activ
 
 We developed the frontend using **React, TypeScript, Vite, and Tailwind CSS**, with responsive layouts and interactive components for desktop and mobile visitors.
 
-<!-- Image placeholder: Add a screenshot of the public homepage here. -->
+<!-- Image placeholder: screenshot of the public homepage here. -->
 ![VOH Kenya public website homepage](/assets/img/projects/voh-kenya/voh-homepage.png)
 *The public-facing VOH Kenya homepage.*
 
-<!-- Image placeholder: Add a screenshot of the programs, fellowships, or ministry pages here. -->
+<!-- Image placeholder: screenshot of the programs, fellowships, or ministry pages here. -->
 ![VOH Kenya programs page](/assets/img/projects/voh-kenya/voh-programs.png)
 ![VOH Kenya Bible Club program page](/assets/img/projects/voh-kenya/voh-bible-club-program.png)
 
@@ -65,11 +65,11 @@ We also developed a management portal for authorized staff to:
 - Fetch and review visitor submissions.
 - Manage user accounts according to their assigned roles.
 
-<!-- Image placeholder: Add a screenshot of the blog listing or an individual article here. -->
+<!-- Image placeholder: screenshot of the blog listing or an individual article here. -->
 ![VOH Kenya blog](/assets/img/projects/voh-kenya/voh-blog.png)
 *The blog experience for ministry articles, updates, and resources.*
 
-<!-- Image placeholder: Add a screenshot of the administration submissions page here. -->
+<!-- Image placeholder: screenshot of the administration submissions page here. -->
 ![VOH Kenya administration submissions portal](/assets/img/projects/voh-kenya/voh-admin-submissions.png)
 *The management portal's submissions interface.*
 
@@ -86,7 +86,7 @@ The portal also includes:
 - Optional multi-factor authentication for privileged access.
 - Access restrictions for sensitive administrative functions.
 
-<!-- Image placeholder: Add a screenshot of the blog management or user administration interface here. -->
+<!-- Image placeholder: screenshot of the blog management or user administration interface here. -->
 ![VOH Kenya content and user management](/assets/img/projects/voh-kenya/voh-content-management.png)
 *Content and administration within the management portal.*
 
