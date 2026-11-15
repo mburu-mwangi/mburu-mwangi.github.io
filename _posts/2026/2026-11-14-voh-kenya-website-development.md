@@ -4,6 +4,9 @@ date: 2026-11-15 12:08:00 +0300
 categories: [Projects, Web Development]
 tags: [react, typescript, vite, tailwind-css, flask, mysql, figma, vercel, web-development]
 description: "A collaborative two-person project delivering a responsive website and management portal for Vessels of Honor Kenya."
+image:
+  path: assets/img/projects/voh-kenya/voh-homepage.png
+  alt: Vessels Of Honor  
 ---
 
 I collaborated with **[Jay Munene](https://github.com/JayMunene)** on the development of a new website for **Vessels of Honor (VOH) Kenya**. This was a two-person project that brought together UI/UX design, frontend and backend development, database integration, administration tools, and deployment.
@@ -40,8 +43,10 @@ We developed the frontend using **React, TypeScript, Vite, and Tailwind CSS**, w
 *The public-facing VOH Kenya homepage.*
 
 <!-- Image placeholder: Add a screenshot of the programs, fellowships, or ministry pages here. -->
-![VOH Kenya programs and ministry pages](/assets/img/projects/voh-kenya/voh-programs.png)
-*Pages presenting the organization's programs and ministry activities.*
+![VOH Kenya programs page](/assets/img/projects/voh-kenya/voh-programs.png)
+![VOH Kenya Bible Club program page](/assets/img/projects/voh-kenya/voh-bible-club-program.png)
+
+*Pages presenting the organization's programs.*
 
 ## Forms and content management
 
@@ -70,11 +75,7 @@ We also developed a management portal for authorized staff to:
 
 ## Security and administration
 
-The management portal supports three roles:
-
-- **Editor**
-- **Admin**
-- **IT Admin**
+The management portal uses role-based access control for staff workflows.
 
 Access permissions are enforced by the backend, so restricted operations are not dependent only on frontend controls.
 
@@ -82,13 +83,12 @@ The portal also includes:
 
 - Individual user accounts and logout.
 - Inactivity-based session expiry.
-- Optional two-factor authentication using authenticator applications.
-- QR-code setup and recovery codes.
-- Restrictions on blog synchronization and user management, which are reserved for IT Admins.
+- Optional multi-factor authentication for privileged access.
+- Access restrictions for sensitive administrative functions.
 
 <!-- Image placeholder: Add a screenshot of the blog management or user administration interface here. -->
 ![VOH Kenya content and user management](/assets/img/projects/voh-kenya/voh-content-management.png)
-*Content and account administration within the management portal.*
+*Content and administration within the management portal.*
 
 ## Deployment and domain configuration
 
